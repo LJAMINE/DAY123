@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1722951853 source:c:\users\lenovo\desktop\youcodeprojects\calcule\calcule\main.c
+	<stdio.h>
+	<stdlib.h>
+

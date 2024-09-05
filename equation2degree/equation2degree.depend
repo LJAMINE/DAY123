@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1725293603 source:c:\users\lenovo\desktop\youcodeprojects\equation2degree\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

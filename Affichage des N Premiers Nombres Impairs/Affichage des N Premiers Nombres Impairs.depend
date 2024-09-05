@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1725361362 source:c:\users\lenovo\desktop\youcodeprojects\affichage des n premiers nombres impairs\main.c
+	<stdio.h>
+	<stdlib.h>
+
